@@ -1,0 +1,265 @@
+@media (min-width: 319px) and (max-width: 619px) {
+  .respon__img {
+    display: block;
+  }
+  .navbar__item {
+    display: none;
+  }
+  .header__text h2 {
+    font-weight: 700;
+    font-size: 28px;
+    color: white;
+  }
+  .header__text p {
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+  }
+  .btn {
+    width: 80%0;
+    left: -30px;
+    height: 40px;
+    position: relative;
+    top: -40px;
+  }
+  body {
+    background-color: aliceblue;
+  }
+  .hr__header {
+    position: relative;
+    top: -100px;
+    width: 100%;
+  }
+  .arrows {
+    display: none;
+  }
+  .numberss {
+    position: relative;
+    top: -80px;
+    left: 60px;
+  }
+  .header {
+    background-image: url(/images/tv-cabinet-modern-living-room-with-armchair-plant-dark-marble-wall-3d-rendering\ 1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 687px;
+  }
+  .cards {
+    flex-direction: column;
+  }
+  .third__section__cards {
+    display: none;
+  }
+  .third__section {
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 1000px;
+    height: 900px;
+    background-color: #3d4a39;
+  }
+  .third__section__cardss {
+    display: flex;
+    gap: 100px;
+    margin-left: 100px;
+    margin-top: 80px;
+    justify-content: center;
+  }
+  .third__text h2 {
+    padding-top: 70px;
+    line-height: 32px;
+    font-weight: 600;
+    font-size: 24px;
+    color: white;
+    padding-left: 80px;
+  }
+  .fourth__section__img {
+    display: none;
+  }
+  .fourth__section__text p {
+    font-weight: 299px;
+    font-size: 20px;
+    width: 600;
+    align-items: center;
+    margin-left: 350px;
+  }
+  .responsive__cards {
+    display: none;
+  }
+  .second__responsive__cards {
+    display: none;
+  }
+  .fiveth__section {
+    flex-direction: column;
+  }
+  .fiveth__hr__two {
+    display: none;
+  }
+  .fiveth__section h3 {
+    width: 272px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+  }
+  .five__img img {
+    display: none;
+  }
+  .seven__section {
+    flex-direction: column;
+  }
+  .seventh__left img {
+    width: 500px;
+    height: 589px;
+    margin-top: -140px;
+    margin-left: -100px;
+  }
+  .seven__section {
+    width: 420px;
+    height: 589px;
+  }
+  .seven__right h2 {
+    width: 216px;
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+  }
+  .seven__right h1 {
+    width: 266px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+  }
+  .input__hr {
+    width: 200px;
+  }
+  .input__btn {
+    width: 300px;
+    height: 60px;
+    margin-left: -100px;
+  }
+  .sixth__right__image img {
+    display: none;
+  }
+  .hr2 {
+    display: none;
+  }
+  .sixth__right__text {
+    display: none;
+  }
+  .responsive {
+    display: block;
+  }
+  .stages {
+    display: none;
+  }
+  @media (min-width: 640px) and (max-width: 768px) {
+    .respon__img {
+      display: none;
+    }
+
+    .navbar__item {
+      display: none;
+    }
+    .respon__two {
+      margin-left: 30px;
+    }
+    .phone {
+      margin-left: 50px;
+    }
+    .phone__two {
+      margin-left: 60px;
+    }
+    .header {
+      background-image: url(/tv-cabinet-modern-living-room-with-armchair-plant-dark-marble-wall-3d-rendering\ 1.png);
+    }
+    .header__text h2 {
+      font-weight: 700;
+      font-size: 56px;
+      line-height: 67px;
+      color: white;
+    }
+    .header__text p {
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 27px;
+    }
+    .btn {
+      width: 260px;
+      height: 60px;
+    }
+    .hr__header {
+      margin-top: 200px;
+    }
+    .arrow__first {
+      margin-left: -140px;
+    }
+    .arrow__second {
+      margin-left: -140px;
+    }
+    .numberss {
+      margin-right: -100px;
+    }
+    .respon__two {
+      display: block;
+    }
+    .card__one img {
+      width: 280px;
+      height: 320px;
+    }
+    .cards {
+      display: none;
+    }
+    .responsive__cards {
+      display: flex;
+      gap: 50px;
+    }
+    .second__responsive__cards {
+      display: block;
+    }
+    .third__section__card h4 {
+      font-weight: 500;
+      font-size: 18px;
+      color: white;
+      line-height: 23px;
+    }
+    .third__section__card img {
+      width: 60px;
+      height: 60px;
+    }
+    third__text h2 {
+      font-weight: 600;
+      font-size: 36px;
+      color: white;
+      line-height: 36px;
+      text-align: center;
+    }
+    .third__section {
+      margin: 0 auto;
+      margin-top: 100px;
+      width: 800px;
+      height: 500px;
+      background-color: #3d4a39;
+    }
+
+    .fourth__section__img {
+      display: none;
+    }
+    .fourth__section__text p {
+      font-weight: 600;
+      font-size: 28px;
+      width: 600;
+      text-align: center;
+    }
+    .fiveth__section {
+      display: none;
+    }
+    .seven__section {
+      width: 640px;
+      height: 687px;
+      background-color: #3d4a39;
+    }
+    .seventh__left img {
+      width: 320px;
+      height: 687px;
+    }
+  }
+}
